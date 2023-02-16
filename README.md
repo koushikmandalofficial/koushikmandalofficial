@@ -35,8 +35,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-[![Koushik's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=koushikmandalofficial&&theme=xcode)](https://github.com/koushikmandalofficial)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koushikmandalofficial&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="koushikmandalofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koushikmandalofficial&show_icons=true&locale=en&theme=tokyonight" alt="koushikmandalofficial" /></p>
