@@ -19,8 +19,10 @@
 - 📫 How to reach me **mkoushik2020@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19CeuaE4C4ynYHWwggyplN7z2eJuAK86O/view?usp=sharing" target="blank">**Resume**</a>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/koushikmandalofficial/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="koushikmandalofficial"/></a>
 <a href="https://twitter.com/Koushik__Mandal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="koushikmandalofficial"/></a>
