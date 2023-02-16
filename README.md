@@ -7,11 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikmandalofficial&label=Profile%20views&color=0e75b6&style=flat" alt="koushikmandalofficial" /> </p>
 
 
+
 </p>
-
-<p align="left"> <a href="https://twitter.com/Koushik__Mandal" target="blank"><img src="https://camo.githubusercontent.com/1ffde4ea8d2869a62cdf80282516c524e1109befc83d6339aae7a55d94ff4ae5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="koushikmandalofficial" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Koushik__Mandal" target="blank"><img src="https://img.shields.io/twitter/follow/Koushik__Mandal?logo=twitter&style=for-the-badge" alt="koushikmandalofficial" /></a> </p>
 
 - 🔭 I’m currently working on **Native Android App**
 
@@ -25,10 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Koushik__Mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koushikmandalofficial" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/koushikmandalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="koushikmandalofficial" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/koushikmandalofficial/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="koushikmandalofficial"/></a>
+<a href="https://twitter.com/Koushik__Mandal" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="koushikmandalofficial"/></a>
+<a href="https://www.facebook.com/koushikmandalofficial/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="koushikmandalofficial"/></a>
+  <a href="https://www.instagram.com/koushikmandalofficial/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="koushikmandalofficial"/></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
